@@ -1,0 +1,842 @@
+[
+    {
+        "vendorId": 1,
+        "vendorName": "Alpha Construction Co.",
+        "vendorContact": {
+            "email": "alpha@example.com",
+            "phone": "1234567890"
+        },
+        "vendorTeam": [
+            {
+                "Name": "John Smith",
+                "Email": "john.smith@example.com",
+                "Phone": "0987654321"
+            },
+            {
+                "Name": "Jane Doe",
+                "Email": "jane.doe@example.com",
+                "Phone": "1122334455"
+            }
+        ],
+        "verifiedStatus": true,
+        "services": [
+            "Construction",
+            "Maintenance"
+        ],
+        "officeAddress": {
+            "Address Line 1": "123 Main St",
+            "City": "Pune",
+            "State": "Maharashtra"
+        },
+        "serviceLocations": {
+            "state": [
+                "MAHARASHTRA"
+            ],
+            "Selectedcities": [
+                "Pune",
+                "Mumbai",
+                "Nashik"
+            ],
+            "Allcities": [
+                "Pune",
+                "Mumbai",
+                "Nashik",
+                "Kolhapur"
+            ]
+        },
+        "turnover": "40 lakhs",
+        "laborStrength": "20-100",
+        "businessAge": "0 - 20 years",
+        "projectsCompleted": 10,
+        "vendorDescription": "Leading provider of construction services with extensive experience in residential and commercial projects, delivering quality and timely solutions tailored to client needs.",
+        "vendorType": "Material Only (Trader)",
+        "marketSector": [
+            "COMMERCIAL",
+            "RESIDENTIAL"
+        ]
+    },
+    {
+        "vendorId": 2,
+        "vendorName": "Beta Electricals Ltd.",
+        "vendorContact": {
+            "email": "beta@example.com",
+            "phone": "2233445566"
+        },
+        "vendorTeam": [
+            {
+                "Name": "Alice Johnson",
+                "Email": "alice.johnson@example.com",
+                "Phone": "6677889900"
+            },
+            {
+                "Name": "Bob Williams",
+                "Email": "bob.williams@example.com",
+                "Phone": "4455667788"
+            }
+        ],
+        "verifiedStatus": false,
+        "services": [
+            "Electrical",
+            "Plumbing"
+        ],
+        "officeAddress": {
+            "Address Line 1": "456 Elm St",
+            "City": "Mumbai",
+            "State": "Maharashtra"
+        },
+        "serviceLocations": {
+            "state": [
+                "MAHARASHTRA"
+            ],
+            "Selectedcities": [
+                "Mumbai",
+                "Pune",
+                "Nagpur"
+            ],
+            "Allcities": [
+                "Mumbai",
+                "Pune",
+                "Nagpur",
+                "Aurangabad"
+            ]
+        },
+        "turnover": "50 lakhs",
+        "laborStrength": "1-10",
+        "businessAge": "20 - 40 Years",
+        "projectsCompleted": 25,
+        "vendorDescription": "Expert in providing top-notch electrical and plumbing services for various projects, focusing on reliability, safety, and efficiency in every job undertaken.",
+        "vendorType": "Labor Only (Labor Contractor)",
+        "marketSector": [
+            "HOSPITALS",
+            "HOTEL"
+        ]
+    },
+    {
+        "vendorId": 3,
+        "vendorName": "Gamma Design Solutions",
+        "vendorContact": {
+            "email": "gamma@example.com",
+            "phone": "3344556677"
+        },
+        "vendorTeam": [
+            {
+                "Name": "Charlie Anderson",
+                "Email": "charlie.anderson@example.com",
+                "Phone": "5566778899"
+            },
+            {
+                "Name": "Dana Lee",
+                "Email": "dana.lee@example.com",
+                "Phone": "6677889900"
+            }
+        ],
+        "verifiedStatus": true,
+        "services": [
+            "Consulting",
+            "Design"
+        ],
+        "officeAddress": {
+            "Address Line 1": "789 Oak St",
+            "City": "Pune",
+            "State": "Maharashtra"
+        },
+        "serviceLocations": {
+            "state": [
+                "MAHARASHTRA"
+            ],
+            "Selectedcities": [
+                "Pune",
+                "Mumbai",
+                "Aurangabad"
+            ],
+            "Allcities": [
+                "Pune",
+                "Mumbai",
+                "Aurangabad",
+                "Jalgaon"
+            ]
+        },
+        "turnover": "30 lakhs",
+        "laborStrength": "10-50",
+        "businessAge": "0 - 20 years",
+        "projectsCompleted": 5,
+        "vendorDescription": "Providing comprehensive consulting and design services to enhance project outcomes, with a focus on innovative solutions and client satisfaction.",
+        "vendorType": "Consultant",
+        "marketSector": [
+            "DATA CENTERS",
+            "PHARMACEUTICAL"
+        ]
+    },
+    {
+        "vendorId": 4,
+        "vendorName": "Delta Engineering Services",
+        "vendorContact": {
+            "email": "delta@example.com",
+            "phone": "4455667788"
+        },
+        "vendorTeam": [
+            {
+                "Name": "Eve Miller",
+                "Email": "eve.miller@example.com",
+                "Phone": "7788990011"
+            },
+            {
+                "Name": "Frank Harris",
+                "Email": "frank.harris@example.com",
+                "Phone": "8899001122"
+            }
+        ],
+        "verifiedStatus": false,
+        "services": [
+            "Construction",
+            "Engineering"
+        ],
+        "officeAddress": {
+            "Address Line 1": "101 Pine St",
+            "City": "Mumbai",
+            "State": "Maharashtra"
+        },
+        "serviceLocations": {
+            "state": [
+                "MAHARASHTRA"
+            ],
+            "Selectedcities": [
+                "Mumbai",
+                "Pune",
+                "Kolhapur"
+            ],
+            "Allcities": [
+                "Mumbai",
+                "Pune",
+                "Kolhapur",
+                "Satara"
+            ]
+        },
+        "turnover": "60 lakhs",
+        "laborStrength": "50-100",
+        "businessAge": "20 - 40 Years",
+        "projectsCompleted": 50,
+        "vendorDescription": "Specializing in high-quality construction and engineering services, Delta Engineering ensures excellence in project execution and client satisfaction with a skilled team and advanced technologies.",
+        "vendorType": "Labor with Material (Providing and Fixing)",
+        "marketSector": [
+            "INFRASTRUCTURE",
+            "RAILWAY"
+        ]
+    },
+    {
+        "vendorId": 5,
+        "vendorName": "Epsilon Supply Chain",
+        "vendorContact": {
+            "email": "epsilon@example.com",
+            "phone": "5566778899"
+        },
+        "vendorTeam": [
+            {
+                "Name": "Grace Wilson",
+                "Email": "grace.wilson@example.com",
+                "Phone": "9911223344"
+            },
+            {
+                "Name": "Henry Clark",
+                "Email": "henry.clark@example.com",
+                "Phone": "1122334455"
+            }
+        ],
+        "verifiedStatus": true,
+        "services": [
+            "Supply",
+            "Logistics"
+        ],
+        "officeAddress": {
+            "Address Line 1": "202 Cedar St",
+            "City": "Pune",
+            "State": "Maharashtra"
+        },
+        "serviceLocations": {
+            "state": [
+                "MAHARASHTRA"
+            ],
+            "Selectedcities": [
+                "Pune",
+                "Mumbai",
+                "Nanded"
+            ],
+            "Allcities": [
+                "Pune",
+                "Mumbai",
+                "Nanded",
+                "Beed"
+            ]
+        },
+        "turnover": "45 lakhs",
+        "laborStrength": "10-50",
+        "businessAge": "0 - 20 years",
+        "projectsCompleted": 15,
+        "vendorDescription": "Expert in providing supply and logistics solutions with a focus on efficient and reliable service, ensuring timely deliveries and effective management of client needs.",
+        "vendorType": "Material Only (Manufacturer)",
+        "marketSector": [
+            "INDUSTRIAL",
+            "BRIDGES"
+        ]
+    },
+    {
+        "vendorId": 6,
+        "vendorName": "Zeta Maintenance Crew",
+        "vendorContact": {
+            "email": "zeta@example.com",
+            "phone": "6677889900"
+        },
+        "vendorTeam": [
+            {
+                "Name": "Ian Scott",
+                "Email": "ian.scott@example.com",
+                "Phone": "2233445566"
+            },
+            {
+                "Name": "Jack Turner",
+                "Email": "jack.turner@example.com",
+                "Phone": "3344556677"
+            }
+        ],
+        "verifiedStatus": false,
+        "services": [
+            "Maintenance",
+            "Repair"
+        ],
+        "officeAddress": {
+            "Address Line 1": "303 Birch St",
+            "City": "Mumbai",
+            "State": "Maharashtra"
+        },
+        "serviceLocations": {
+            "state": [
+                "MAHARASHTRA"
+            ],
+            "Selectedcities": [
+                "Mumbai",
+                "Pune",
+                "Sangli"
+            ],
+            "Allcities": [
+                "Mumbai",
+                "Pune",
+                "Sangli",
+                "Solapur"
+            ]
+        },
+        "turnover": "35 lakhs",
+        "laborStrength": "20-100",
+        "businessAge": "20 - 40 Years",
+        "projectsCompleted": 30,
+        "vendorDescription": "Providing top-tier maintenance and repair services with a strong focus on reliability and customer satisfaction, utilizing a skilled team to address a wide range of needs.",
+        "vendorType": "Labor Only (Labor Contractor)",
+        "marketSector": [
+            "METRO",
+            "RESIDENTIAL"
+        ]
+    },
+    {
+        "vendorId": 7,
+        "vendorName": "Eta Project Experts",
+        "vendorContact": {
+            "email": "eta@example.com",
+            "phone": "7788990011"
+        },
+        "vendorTeam": [
+            {
+                "Name": "Laura White",
+                "Email": "laura.white@example.com",
+                "Phone": "4455667788"
+            },
+            {
+                "Name": "Mike Adams",
+                "Email": "mike.adams@example.com",
+                "Phone": "5566778899"
+            }
+        ],
+        "verifiedStatus": true,
+        "services": [
+            "Consulting",
+            "Project Management"
+        ],
+        "officeAddress": {
+            "Address Line 1": "404 Maple St",
+            "City": "Pune",
+            "State": "Maharashtra"
+        },
+        "serviceLocations": {
+            "state": [
+                "MAHARASHTRA"
+            ],
+            "Selectedcities": [
+                "Pune",
+                "Mumbai",
+                "Ratnagiri"
+            ],
+            "Allcities": [
+                "Pune",
+                "Mumbai",
+                "Ratnagiri",
+                "Latur"
+            ]
+        },
+        "turnover": "55 lakhs",
+        "laborStrength": "10-50",
+        "businessAge": "0 - 20 years",
+        "projectsCompleted": 20,
+        "vendorDescription": "Offering expert consulting and project management services to ensure successful project delivery with strategic planning, risk management, and client-focused solutions.",
+        "vendorType": "Consultant",
+        "marketSector": [
+            "DATA CENTERS",
+            "HOTEL"
+        ]
+    },
+    {
+        "vendorId": 8,
+        "vendorName": "Theta Architectural Services",
+        "vendorContact": {
+            "email": "theta@example.com",
+            "phone": "8899001122"
+        },
+        "vendorTeam": [
+            {
+                "Name": "Nancy Evans",
+                "Email": "nancy.evans@example.com",
+                "Phone": "6677889900"
+            },
+            {
+                "Name": "Oscar Young",
+                "Email": "oscar.young@example.com",
+                "Phone": "7788990011"
+            }
+        ],
+        "verifiedStatus": false,
+        "services": [
+            "Design",
+            "Consulting"
+        ],
+        "officeAddress": {
+            "Address Line 1": "505 Spruce St",
+            "City": "Mumbai",
+            "State": "Maharashtra"
+        },
+        "serviceLocations": {
+            "state": [
+                "MAHARASHTRA"
+            ],
+            "Selectedcities": [
+                "Mumbai",
+                "Pune",
+                "Thane"
+            ],
+            "Allcities": [
+                "Mumbai",
+                "Pune",
+                "Thane",
+                "Palghar"
+            ]
+        },
+        "turnover": "40 lakhs",
+        "laborStrength": "1-10",
+        "businessAge": "20 - 40 Years",
+        "projectsCompleted": 7,
+        "vendorDescription": "Providing innovative architectural design and consulting services to create functional and aesthetically pleasing spaces, focusing on client needs and design excellence.",
+        "vendorType": "Consultant",
+        "marketSector": [
+            "COMMERCIAL",
+            "HOSPITALS"
+        ]
+    },
+    {
+        "vendorId": 9,
+        "vendorName": "Iota Civil Works",
+        "vendorContact": {
+            "email": "iota@example.com",
+            "phone": "9900112233"
+        },
+        "vendorTeam": [
+            {
+                "Name": "Paul Brooks",
+                "Email": "paul.brooks@example.com",
+                "Phone": "2233445566"
+            },
+            {
+                "Name": "Rita Moore",
+                "Email": "rita.moore@example.com",
+                "Phone": "3344556677"
+            }
+        ],
+        "verifiedStatus": true,
+        "services": [
+            "Civil Works",
+            "Landscaping"
+        ],
+        "officeAddress": {
+            "Address Line 1": "606 Walnut St",
+            "City": "Pune",
+            "State": "Maharashtra"
+        },
+        "serviceLocations": {
+            "state": [
+                "MAHARASHTRA"
+            ],
+            "Selectedcities": [
+                "Pune",
+                "Mumbai",
+                "Nagpur"
+            ],
+            "Allcities": [
+                "Pune",
+                "Mumbai",
+                "Nagpur",
+                "Jalna"
+            ]
+        },
+        "turnover": "65 lakhs",
+        "laborStrength": "50-100",
+        "businessAge": "20 - 40 Years",
+        "projectsCompleted": 35,
+        "vendorDescription": "Specializes in civil works and landscaping services with a strong track record of delivering high-quality projects on time and within budget.",
+        "vendorType": "Labor with Material (Providing and Fixing)",
+        "marketSector": [
+            "INFRASTRUCTURE",
+            "RESIDENTIAL"
+        ]
+    },
+    {
+        "vendorId": 10,
+        "vendorName": "Kappa HVAC Solutions",
+        "vendorContact": {
+            "email": "kappa@example.com",
+            "phone": "0011223344"
+        },
+        "vendorTeam": [
+            {
+                "Name": "Sara Green",
+                "Email": "sara.green@example.com",
+                "Phone": "4455667788"
+            },
+            {
+                "Name": "Tom Black",
+                "Email": "tom.black@example.com",
+                "Phone": "5566778899"
+            }
+        ],
+        "verifiedStatus": false,
+        "services": [
+            "HVAC",
+            "Ventilation"
+        ],
+        "officeAddress": {
+            "Address Line 1": "707 Pine St",
+            "City": "Mumbai",
+            "State": "Maharashtra"
+        },
+        "serviceLocations": {
+            "state": [
+                "MAHARASHTRA"
+            ],
+            "Selectedcities": [
+                "Mumbai",
+                "Pune",
+                "Nashik"
+            ],
+            "Allcities": [
+                "Mumbai",
+                "Pune",
+                "Nashik",
+                "Aurangabad"
+            ]
+        },
+        "turnover": "55 lakhs",
+        "laborStrength": "10-50",
+        "businessAge": "0 - 20 years",
+        "projectsCompleted": 22,
+        "vendorDescription": "Providing expert HVAC and ventilation solutions with a focus on efficiency and quality, ensuring optimal climate control and air quality in various settings.",
+        "vendorType": "Labor Only (Labor Contractor)",
+        "marketSector": [
+            "HOTEL",
+            "COMMERCIAL"
+        ]
+    },
+    {
+        "vendorId": 11,
+        "vendorName": "Lambda Electrical Experts",
+        "vendorContact": {
+            "email": "lambda@example.com",
+            "phone": "2233445566"
+        },
+        "vendorTeam": [
+            {
+                "Name": "Nancy Harris",
+                "Email": "nancy.harris@example.com",
+                "Phone": "6677889900"
+            },
+            {
+                "Name": "Oliver Brown",
+                "Email": "oliver.brown@example.com",
+                "Phone": "7788990011"
+            }
+        ],
+        "verifiedStatus": true,
+        "services": [
+            "Electrical Installation",
+            "Repair"
+        ],
+        "officeAddress": {
+            "Address Line 1": "808 Cedar St",
+            "City": "Pune",
+            "State": "Maharashtra"
+        },
+        "serviceLocations": {
+            "state": [
+                "MAHARASHTRA"
+            ],
+            "Selectedcities": [
+                "Pune",
+                "Mumbai",
+                "Kolhapur"
+            ],
+            "Allcities": [
+                "Pune",
+                "Mumbai",
+                "Kolhapur",
+                "Ratnagiri"
+            ]
+        },
+        "turnover": "75 lakhs",
+        "laborStrength": "20-100",
+        "businessAge": "20 - 40 Years",
+        "projectsCompleted": 40,
+        "vendorDescription": "Specialized in electrical installations and repair with a reputation for reliability and quality, serving both residential and commercial clients effectively.",
+        "vendorType": "Labor with Material (Providing and Fixing)",
+        "marketSector": [
+            "INDUSTRIAL",
+            "RESIDENTIAL"
+        ]
+    },
+    {
+        "vendorId": 12,
+        "vendorName": "Mu Engineering Solutions",
+        "vendorContact": {
+            "email": "mu@example.com",
+            "phone": "3344556677"
+        },
+        "vendorTeam": [
+            {
+                "Name": "Paula White",
+                "Email": "paula.white@example.com",
+                "Phone": "8899001122"
+            },
+            {
+                "Name": "Randy Lee",
+                "Email": "randy.lee@example.com",
+                "Phone": "0011223344"
+            }
+        ],
+        "verifiedStatus": false,
+        "services": [
+            "Engineering",
+            "Project Management"
+        ],
+        "officeAddress": {
+            "Address Line 1": "909 Maple St",
+            "City": "Mumbai",
+            "State": "Maharashtra"
+        },
+        "serviceLocations": {
+            "state": [
+                "MAHARASHTRA"
+            ],
+            "Selectedcities": [
+                "Mumbai",
+                "Pune",
+                "Nagpur"
+            ],
+            "Allcities": [
+                "Mumbai",
+                "Pune",
+                "Nagpur",
+                "Aurangabad"
+            ]
+        },
+        "turnover": "85 lakhs",
+        "laborStrength": "50-100",
+        "businessAge": "40+ Years",
+        "projectsCompleted": 60,
+        "vendorDescription": "Provides comprehensive engineering and project management services with a focus on delivering complex projects efficiently and effectively.",
+        "vendorType": "Consultant",
+        "marketSector": [
+            "INFRASTRUCTURE",
+            "DATA CENTERS"
+        ]
+    },
+    {
+        "vendorId": 13,
+        "vendorName": "Nu Construction Ltd.",
+        "vendorContact": {
+            "email": "nu@example.com",
+            "phone": "4455667788"
+        },
+        "vendorTeam": [
+            {
+                "Name": "Steve King",
+                "Email": "steve.king@example.com",
+                "Phone": "2233445566"
+            },
+            {
+                "Name": "Tina Adams",
+                "Email": "tina.adams@example.com",
+                "Phone": "3344556677"
+            }
+        ],
+        "verifiedStatus": true,
+        "services": [
+            "Construction",
+            "Renovation"
+        ],
+        "officeAddress": {
+            "Address Line 1": "1010 Birch St",
+            "City": "Pune",
+            "State": "Maharashtra"
+        },
+        "serviceLocations": {
+            "state": [
+                "MAHARASHTRA"
+            ],
+            "Selectedcities": [
+                "Pune",
+                "Mumbai",
+                "Kolhapur"
+            ],
+            "Allcities": [
+                "Pune",
+                "Mumbai",
+                "Kolhapur",
+                "Sangli"
+            ]
+        },
+        "turnover": "90 lakhs",
+        "laborStrength": "100-200",
+        "businessAge": "20 - 40 Years",
+        "projectsCompleted": 70,
+        "vendorDescription": "Renowned for excellence in construction and renovation services, focusing on delivering high-quality results and customer satisfaction on every project.",
+        "vendorType": "Labor with Material (Providing and Fixing)",
+        "marketSector": [
+            "COMMERCIAL",
+            "RESIDENTIAL"
+        ]
+    },
+    {
+        "vendorId": 14,
+        "vendorName": "Xi Design Consultants",
+        "vendorContact": {
+            "email": "xi@example.com",
+            "phone": "5566778899"
+        },
+        "vendorTeam": [
+            {
+                "Name": "Ursula Martin",
+                "Email": "ursula.martin@example.com",
+                "Phone": "0011223344"
+            },
+            {
+                "Name": "Victor Harris",
+                "Email": "victor.harris@example.com",
+                "Phone": "2233445566"
+            }
+        ],
+        "verifiedStatus": false,
+        "services": [
+            "Design",
+            "Consulting"
+        ],
+        "officeAddress": {
+            "Address Line 1": "2020 Elm St",
+            "City": "Mumbai",
+            "State": "Maharashtra"
+        },
+        "serviceLocations": {
+            "state": [
+                "MAHARASHTRA"
+            ],
+            "Selectedcities": [
+                "Mumbai",
+                "Pune",
+                "Thane"
+            ],
+            "Allcities": [
+                "Mumbai",
+                "Pune",
+                "Thane",
+                "Palghar"
+            ]
+        },
+        "turnover": "40 lakhs",
+        "laborStrength": "10-50",
+        "businessAge": "0 - 20 years",
+        "projectsCompleted": 15,
+        "vendorDescription": "Provides innovative design and consulting services with a focus on creative solutions and strategic planning to meet client needs and project requirements.",
+        "vendorType": "Consultant",
+        "marketSector": [
+            "HOSPITALS",
+            "COMMERCIAL"
+        ]
+    },
+    {
+        "vendorId": 15,
+        "vendorName": "Om Interior Solutions",
+        "vendorContact": {
+            "email": "om@example.com",
+            "phone": "6677889900"
+        },
+        "vendorTeam": [
+            {
+                "Name": "Wendy Clark",
+                "Email": "wendy.clark@example.com",
+                "Phone": "7788990011"
+            },
+            {
+                "Name": "Xander Lewis",
+                "Email": "xander.lewis@example.com",
+                "Phone": "8899001122"
+            }
+        ],
+        "verifiedStatus": true,
+        "services": [
+            "Interior Design",
+            "Space Planning"
+        ],
+        "officeAddress": {
+            "Address Line 1": "3030 Pine St",
+            "City": "Pune",
+            "State": "Maharashtra"
+        },
+        "serviceLocations": {
+            "state": [
+                "MAHARASHTRA"
+            ],
+            "Selectedcities": [
+                "Pune",
+                "Mumbai",
+                "Navi Mumbai"
+            ],
+            "Allcities": [
+                "Pune",
+                "Mumbai",
+                "Navi Mumbai",
+                "Dombivli"
+            ]
+        },
+        "turnover": "70 lakhs",
+        "laborStrength": "20-50",
+        "businessAge": "10 - 30 Years",
+        "projectsCompleted": 30,
+        "vendorDescription": "Specializes in interior design and space planning, delivering aesthetically pleasing and functional interior solutions tailored to client needs and preferences.",
+        "vendorType": "Labor Only (Labor Contractor)",
+        "marketSector": [
+            "RESIDENTIAL",
+            "COMMERCIAL"
+        ]
+    }
+]
